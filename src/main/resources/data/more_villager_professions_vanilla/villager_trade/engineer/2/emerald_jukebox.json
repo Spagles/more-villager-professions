@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:jukebox"
+  },
+  "max_uses": 6.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 5.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 5.0
+}

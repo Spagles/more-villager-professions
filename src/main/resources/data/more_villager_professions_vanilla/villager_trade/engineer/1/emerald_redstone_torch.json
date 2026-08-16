@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:redstone_torch"
+  },
+  "max_uses": 16.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 1.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 1.0
+}

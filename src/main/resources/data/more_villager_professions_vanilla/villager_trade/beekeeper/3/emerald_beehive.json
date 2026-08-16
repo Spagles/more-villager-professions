@@ -1,0 +1,31 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:beehive",
+    "components": {
+      "minecraft:bees": [
+        {
+          "entity_data": {
+            "id": "minecraft:bee"
+          },
+          "min_ticks_in_hive": 2400,
+          "ticks_in_hive": 600
+        },
+        {
+          "entity_data": {
+            "id": "minecraft:bee"
+          },
+          "min_ticks_in_hive": 2400,
+          "ticks_in_hive": 600
+        }
+      ]
+    }
+  },
+  "max_uses": 16.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 10.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10.0
+}

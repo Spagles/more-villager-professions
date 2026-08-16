@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 2,
+    "id": "minecraft:big_dripleaf"
+  },
+  "max_uses": 8.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 15.0
+}
