@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "more_villager_professions_vanilla",
+	"version": "${version}",
+	"name": "More Villager Professions: Vanilla",
+	"description": "Adds 4 new villager professions: Lumberjack, Engineer, Beekeeper and Botanist",
+	"authors": [
+		"Junaid Sultan"
+	],
+	"contact": {
+		"homepage": "https://more-villagers.vercel.app",
+		"sources": "https://github.com/junaidsultanxyz/morevillagers"
+	},
+	"license": "MIT",
+	"icon": "assets/more_villager_professions_vanilla/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.junaidsultan.morevillagers.MoreVillagers"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
